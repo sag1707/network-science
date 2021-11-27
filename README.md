@@ -3,6 +3,6 @@ Implementation of Erdos-Renyi model and Barabasi-Albert model using Networkx pyt
 
 Requirements :
 
-1.python;
+1.python
 2.Netwotrks - pip install networkx
 3.matplplolib - pip install matplotlib
